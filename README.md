@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student.<br>I'm a developer. web and mobile.<br>I like manga and anime.
+I am a student.<br>I'm a developer. web and mobile.<br>I like manga and comic.
 
 
 ## 🌐 Socials:
